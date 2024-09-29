@@ -6,4 +6,4 @@ Run the DataCollection.py file to collect and preprocess data.Build a model suit
 and run the test.py file to test the model
 
 
-The sample data can be found on:
+The sample data can be found on: https://drive.google.com/drive/folders/1ZvZ3E3HPDsdUaC8sLdBlhd0dmcmh6zTt?usp=drive_link
