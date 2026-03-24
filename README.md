@@ -21,18 +21,6 @@ This project uses computer vision and machine learning to recognize and classify
 - Python 3.7 or higher
 - Required Python libraries (see requirements.txt)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mahboob-kc/ASL_Classifier.git
-   cd ASL_Classifier
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## 📊 Workflow
 
